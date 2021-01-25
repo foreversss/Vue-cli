@@ -1,0 +1,21 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="prefix__a" filterUnits="objectBoundingBox" height="103.8%" width="108.9%" y="-1.4%" x="-4.4%">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+  <path d="m0,0l158,0l0,366l-158,0l0,-366z" id="prefix__b"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="18" width="18" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <path id="svg_3" d="m-4,-3l20,0l0,20l-20,0l0,-20z"/>
+   <path id="svg_4" opacity="0.9" fill-rule="nonzero" fill="#6ED3FF" d="m0,1.347l0,11.297c0,0.769 0.612,1.356 1.413,1.356c0.282,0 0.518,-0.09 0.753,-0.226l9.184,-5.649c0.66,-0.406 0.848,-1.265 0.424,-1.852a0.906,0.906 0 0 0 -0.424,-0.407l-9.184,-5.649a1.418,1.418 0 0 0 -1.93,0.407c-0.143,0.226 -0.236,0.452 -0.236,0.723z"/>
+   <path id="svg_8" d="m-4,-3l20,0l0,20l-20,0l0,-20z"/>
+   <path id="svg_9" opacity="0.9" fill-rule="nonzero" fill="#6ED3FF" d="m1.999745,2.34728l0,11.297c0,0.769 0.612,1.356 1.413,1.356c0.282,0 0.518,-0.09 0.753,-0.226l9.184,-5.649c0.66,-0.406 0.848,-1.265 0.424,-1.852a0.906,0.906 0 0 0 -0.424,-0.407l-9.184,-5.649a1.418,1.418 0 0 0 -1.93,0.407c-0.143,0.226 -0.236,0.452 -0.236,0.723z"/>
+  </g>
+ </g>
+</svg>
